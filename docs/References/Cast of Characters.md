@@ -64,5 +64,5 @@
 55. Dmitri Krezkov - Burgomaster of [[Locations#Krezk|Krezk]].^48f977 ^727c68
 56. Anna Krezkov - Burgomaster's wife. ^dabc5c
 57. The Abbot of [[Locations#Krezk|Krezk]] ^274271
-58. Saint Markovia ^ac1bb8
+58. Saint Martikov ^ac1bb8
   
