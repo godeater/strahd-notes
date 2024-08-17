@@ -1,5 +1,5 @@
 site_name: Curse of Strahd
-
+docs_dir: strahd
 theme:
     name: 'material'
     palette:
