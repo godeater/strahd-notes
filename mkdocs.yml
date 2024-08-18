@@ -4,6 +4,7 @@ docs_dir: strahd
 theme:
     name: 'material'
     favicon: favicon.jpg
+    logo: favicon.jpg
     palette:
 
     # Light mode
