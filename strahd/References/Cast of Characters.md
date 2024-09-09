@@ -18,7 +18,7 @@
 9. Grumblehook - Cook on board the Mermaid's Grace - Deceased ^ea73e2
 10. Lady Isolda Waterford - Passenger on the Mermaid's Grace. Rich. Deceased. ^bc073a
 11. Mary - Villager in the town of [[Locations#Barovia|Barovia]] whose daughter has disappeared. ^984f84
-12. Betruna - missing daughter of [[#^984f84|Mary]]. Feared to be with [[Cast of Characters#^3b7d6a|Strahd]]. ^aac052
+12. Gertruda - missing daughter of [[#^984f84|Mary]]. Feared to be with [[Cast of Characters#^3b7d6a|Strahd]]. ^aac052
 13. Morgantha - an apparently innocent old lady selling pies in [[Locations#Barovia|Barovia]] but in reality she's a [[Creatures Encountered#^c4c27e|Night Hag]] apparently intent on stealing the town's children in exchange for drug laced pies. ^9d2f36
 14. Strahd von Zarovich - Ruler of the realm of [[Locations#Barovia|Barovia]] and apparently a vampire. ^3b7d6a
 15. Tatyana - consort of [[#^3b7d6a|Strahd]]. Suspected to be the betrothed of Sergei.
