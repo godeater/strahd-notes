@@ -1,17 +1,17 @@
 # Magic Items
 
-| Who                                       | What               |
-| ----------------------------------------- | ------------------ |
-| [[Cast of Characters#^18e878\|Kosron]]    | Ring of Protection |
-| [[Cast of Characters#^18e878\|Kosron]]    | Soul Swap Needle   |
-| [[Cast of Characters#^18e878\|Kosron]]    | Glowing Dagger     |
-| [[Cast of Characters#^8af613\|Grond]]     | Blood Spear        |
-| [[Cast of Characters#^8af613\|Grond]]     | Defender Longsword |
-| [[Cast of Characters#^828a30\|Aerin]]     | Gloves of Thievery |
-| [[Cast of Characters#^99283f\|Clank]]     | Mace of Smiting    |
-| [[Cast of Characters#^aaf0b6\|Cub]]       | Bracelet +1 CON    |
-| [[Cast of Characters#^aaf0b6\|Cub]]       | +1 Shortsword      |
-| [[Cast of Characters#^c85e3a\|Ezmerelda]] | Sunblade           |
+| Who                                       | What                 |
+| ----------------------------------------- | -------------------- |
+| [[Cast of Characters#^18e878\|Kosron]]    | Ring of Protection   |
+| [[Cast of Characters#^18e878\|Kosron]]    | ~~Soul Swap Needle~~ |
+| [[Cast of Characters#^18e878\|Kosron]]    | Glowing Dagger       |
+| [[Cast of Characters#^8af613\|Grond]]     | Blood Spear          |
+| [[Cast of Characters#^8af613\|Grond]]     | Defender Longsword   |
+| [[Cast of Characters#^828a30\|Aerin]]     | Gloves of Thievery   |
+| [[Cast of Characters#^99283f\|Clank]]     | Mace of Smiting      |
+| [[Cast of Characters#^aaf0b6\|Cub]]       | Bracelet +1 CON      |
+| [[Cast of Characters#^aaf0b6\|Cub]]       | +1 Shortsword        |
+| [[Cast of Characters#^c85e3a\|Ezmerelda]] | Sunblade             |
 
 ^122577
 

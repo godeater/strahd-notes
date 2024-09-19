@@ -27,7 +27,7 @@
 18. Alenka - [[Groups#Vistani|Vistani]] met at [[Locations#Blood on the Vine|Blood on the Vine]] ^38713f
 19. Sorba - [[Groups#Vistani|Vistani]] met at [[Locations#Blood on the Vine|Blood on the Vine]] ^7037de
 20. Madam Eva - Matriarch of the [[Groups#Vistani|Vistani]] and fortune teller / prophet. ^79132e
-21. Ireena Kolyana - Adopted daughter of the recently deceased burgomaster of [[Locations#Barovia|Barovia]] ^2fb60d
+21. Ireena Kolyana - Adopted daughter of the recently deceased burgomaster of [[Locations#Barovia|Barovia]]. Spitting image of Tatyana. ^2fb60d
 22. Ismark Kolyanovich - Son of the recently deceased burgomaster of [[Locations#Barovia|Barovia]] ^e8a79e
 23. Father Donavitch - Cleric of Lathander based at the church in [[Locations#Barovia|Barovia]] ^36f369
 24. Kolyan Indirovich - Late burgomaster of [[Locations#Barovia|Barovia]] ^84134c
@@ -63,6 +63,9 @@
 54. Rudolf van Richten - Ezmerelda's boss and adopted Father - Ricardo's alter ego. ^f8a586
 55. Dmitri Krezkov - Burgomaster of [[Locations#Krezk|Krezk]].^48f977 ^727c68
 56. Anna Krezkov - Burgomaster's wife. ^dabc5c
-57. The Abbot of [[Locations#Krezk|Krezk]] ^274271
+57. The Abbot of [[Locations#Krezk|Krezk]] - Celestial running the abbey in [[Locations#Krezk|Krezk]]. Barovia appears to have driven him slightly mad. ^274271
 58. Saint Martikov ^ac1bb8
+59. Otto - Mongrelfolk doorman at the abbey in [[Locations#Krezk|Krezk]] ^31a3f9
+60. Siegfried - Mongrelfolk doorman at the abbey in [[Locations#Krezk|Krezk]] ^22b9c9
+61. Vassilica - Flesh golem 'bride' that [[Cast of Characters#^274271|the Abbot]] has prepared for [[Cast of Characters#^3b7d6a|Strahd]] ^6e4245
   
