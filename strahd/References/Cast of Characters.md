@@ -61,7 +61,7 @@
 52. Baba Lysaga - Swamp woman, living to the east of the [[Locations#Wizard of Wines|Wizard of Wines]] ^0b9829
 53. Druid Althius - mentioned in a note we found on a dead druid at [[Locations#Wizard of Wines|the vineyard]]. Maybe the guy who totalled us? ^72a0ea
 54. Rudolf van Richten - Ezmerelda's boss and adopted Father - Ricardo's alter ego. ^f8a586
-55. Dmitri Krezkov - Burgomaster of [[Locations#Krezk|Krezk]].^48f977 ^727c68
+55. Dmitri Krezkov - Burgomaster of [[Locations#Krezk|Krezk]]. ^727c68
 56. Anna Krezkov - Burgomaster's wife. ^dabc5c
 57. The Abbot of [[Locations#Krezk|Krezk]] - Celestial running the abbey in [[Locations#Krezk|Krezk]]. Barovia appears to have driven him slightly mad. ^274271
 58. Saint Martikov ^ac1bb8
