@@ -68,4 +68,5 @@
 59. Otto - Mongrelfolk doorman at the abbey in [[Locations#Krezk|Krezk]] ^31a3f9
 60. Siegfried - Mongrelfolk doorman at the abbey in [[Locations#Krezk|Krezk]] ^22b9c9
 61. Vassilica - Flesh golem 'bride' that [[Cast of Characters#^274271|the Abbot]] has prepared for [[Cast of Characters#^3b7d6a|Strahd]] ^6e4245
+62. Mr. Snuggles - Grond's pet Dire Wolf. ^84defb
   
