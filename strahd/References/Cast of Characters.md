@@ -69,4 +69,8 @@
 60. Siegfried - Mongrelfolk doorman at the abbey in [[Locations#Krezk|Krezk]] ^22b9c9
 61. Vassilica - Flesh golem 'bride' that [[Cast of Characters#^274271|the Abbot]] has prepared for [[Cast of Characters#^3b7d6a|Strahd]] ^6e4245
 62. Mr. Snuggles - Grond's pet Dire Wolf. ^84defb
+63. Argynvost - Silver dragon, died fighting Strahd and his forces many years ago ^366a29
+64. Lord Vladimir Horneguard - Leader of the Order of the Fallen Silver Dragon. Undead. ^c4c891
+65. Sir Godfrey - member of the Order of the Fallen Silver Dragon. Unclear on his place in things
+66. Argynstult - member of the Order of the Fallen Silver Dragon. Vladimir's lieutenant. ^9cfcf1
   

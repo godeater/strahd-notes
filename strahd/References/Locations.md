@@ -83,3 +83,6 @@ South West of the [[#Wizard of Wines|Wizard of Wines]]. Stone circles around the
 
 # Bonegrider windmill
 Located between the village of [[#Barovia]] and [[#Vallaki]]. Inhabited by at least one [[Creatures Encountered#^c4c27e|Night Hag]] that isn't [[Cast of Characters#^9d2f36|Morgantha]] 
+
+# Argynvostholt
+Fortress housing the remaining members of the Order of the Fallen Silver Dragon
