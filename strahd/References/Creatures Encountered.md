@@ -18,3 +18,6 @@
 - Vine Blight ^ec9690
 - Needle Blight
 - "Mist Wraith" ^4cffa0
+- Werewolves
+- Revenants
+- Phantom Warriors
